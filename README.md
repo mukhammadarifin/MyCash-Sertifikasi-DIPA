@@ -1,7 +1,5 @@
 # MyCash-Sertifikasi DIPA
 
-|  |  |
-
 ## Data Diri
 
 |  |  |
